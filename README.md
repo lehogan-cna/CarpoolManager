@@ -1,31 +1,30 @@
-# CarpoolManager
-Sample CP3490 Repo, Fall 2026
 
-## Project Overview
+# Team
+Lori Hogan, Other Personality, CP3490 Students
 
-CarPoolManager is a web-based application that helps drivers and passengers
-coordinate rides for commuting, school, and local travel.
+# Problem Statement (what problem are we solving)
+We propose to create a management software tool for organizing car pools to youth
+activities. This will make finding carpooling options, managing responsibilities, communicating
+changes and troubleshooting challenging situations easier.
 
-The application allows users to:
+# Stakeholder Analysis (for whom are we solving a problem)
+This application will be of use to youth and their parents involved in team sports, arts and music,
+tournaments, etc. It may also be of use to the people and organizations who run these activities,
+as a “selling point”.
 
-- Create an account
-- Offer rides
-- Search for available rides
-- Request seats
-- Approve or reject ride requests
-- Track upcoming trips
-- View ride history
+# Key Features (how are we solving the problem for them)
+The application in question will have:
+- Listings of people who you regularly carpool with, how many they can take, where they
+are located, contact info, etc
+- Calendar of my carpool responsibilities and my youth activities
+- List of locations where public bathrooms are available en route
+- List of regular routes with annotations on construction, traffic, etc.
 
-## Team Members
-
-- Lori
-- Hanson
-
-## Technology Stack
-
-- Frontend: JavaFX / React
-- Backend: Java Spring Boot
-- Version Control: GitHub
+# Technologies Used
+- Java
+- Python
+- C/C++
+- C#
 
 ## Scrum Process
 
