@@ -72,10 +72,5 @@ CarPoolManager/
 │   ├── Sprint4Review.md
 │   ├── Sprint4Retrospective.md
 │   └── Architecture.md
-│
-└── .github/
-    ├── ISSUE_TEMPLATE/
-    │   ├── user-story.md
-    │   └── bug-report.md
-    └── pull_request_template.md
+
 </pre>
