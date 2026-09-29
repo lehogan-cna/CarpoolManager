@@ -2,7 +2,7 @@
 
 | ID | User Story | Functional Requirements | Priority |
 |----|------------|-------------------------|---------|
-| US-01 | Create account |  | High |
+| PB-01 | US-01 Create account |  | High |
 | US-02 | Login/logout | | High |
 | US-03 | Edit profile |  | Medium |
 | US-04 | Create ride | | High |
