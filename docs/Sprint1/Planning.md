@@ -4,13 +4,13 @@
 
 Establish project foundation and authentication features.
 
-## Selected Stories
+## Selected Product Backlog Tasks
 
 - US-01 Create Account
 - US-02 Login
 - US-03 Profile Management
 
-## Tasks
+## Tasks and Subtasks
 
 ### US-01
 
