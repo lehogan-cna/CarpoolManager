@@ -1,4 +1,4 @@
-# Product Vision
+# Product Vision (largely duplicated from first part of README.md)
 
 ## Problem Statement
 
