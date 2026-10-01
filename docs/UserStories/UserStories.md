@@ -14,7 +14,7 @@ So that I can use the system.
 - Password is encrypted
 - User account is saved
 
-## Story Points
+## Story Points (to be discussed)
 
 3
 
