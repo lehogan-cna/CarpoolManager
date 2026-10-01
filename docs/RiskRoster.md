@@ -16,6 +16,14 @@ This document identifies risks that may affect the successful completion of the 
 - Medium (M): Noticeable impact on schedule, quality, or scope
 - High (H): Significant impact on project success
 
+### Risk Status Definitions
+
+- Open: Risk currently exists and requires monitoring.
+- Mitigated: Actions have reduced the likelihood or impact.
+- Closed: Risk is no longer relevant.
+- Occurred: Risk occurred and required response actions.
+
+
 ## Risk Register
 
 | Risk ID | Category | Risk Description | Probability | Impact | Mitigation Strategy | Owner | Status |
@@ -24,13 +32,6 @@ This document identifies risks that may affect the successful completion of the 
 | R-02 | Schedule | Example: Team members have conflicting schedules. | M | M | Establish weekly meetings and use GitHub Issues for coordination. | Team | Open |
 | R-03 | Technical | Example: Data persistence solution proves more difficult than expected. | L | M | Implement a small proof-of-concept early in the project. | John | Open |
 | R-04 | Scope | Example: Project requirements expand beyond available time. | M | H | Prioritize backlog items and defer lower-priority features. | Team | Open |
-
-## Risk Status Definitions
-
-- **Open**: Risk currently exists and requires monitoring.
-- **Mitigated**: Actions have reduced the likelihood or impact.
-- **Closed**: Risk is no longer relevant.
-- **Occurred**: Risk occurred and required response actions.
 
 ## Risk Review History
 
