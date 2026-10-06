@@ -5,7 +5,7 @@
 
 | Product Backlog ID | Requirement | User Story | Priority |
 |----|-------------------------|------------|---------|
-| PB-01 | FR1 User Registration | US-01 Create account | High |
+| PB-01 | FR1 User Registration | [US-01 Create account](https://github.com/lehogan-cna/CarpoolManager/edit/main/docs/UserStories/UserStories.md#us-01-create-account) | High |
 | PB-02 | FR2 User Authentication | US-02 Login/logout | High |
 | PB-03 | | US-03 Edit profile | Medium |
 | PB-04 | FR3 Create Ride | US-04 Create ride | High |
