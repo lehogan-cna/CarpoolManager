@@ -1,10 +1,10 @@
 # US-01 Create Account
 
-As a commuter,
+As a **commuter**,
 
-I want to create an account,
+I want to **create an account**,
 
-So that I can use the system.
+So that I can **use the system**.
 
 ## Acceptance Criteria
 
@@ -18,9 +18,36 @@ So that I can use the system.
 
 3
 
-## Labels
+## Labels (for group use)
 
 backend
 frontend
-sprint-1
 high-priority
+unassigned-sprint
+
+# US-02 Login/Logout
+
+As a **commuter**,
+
+I want to **log in and out of my account**,
+
+So that **my preferences are saved, and my information is secure, across multiple devices**.
+
+## Acceptance Criteria
+
+- User entering existing valid login for account can have access to system and account information
+- Once a user logs out and back in successfully, their information remains the same
+- Account information changed via one device should propogate to other devices and logins for that same account
+- Entering invalid username not already in system will not allow access to system
+- Entering invalid password for username existing in system will not allow acess to system
+
+## Story Points (to be discussed)
+
+3
+
+## Labels (for group use)
+
+backend
+frontend
+high-priority
+unassigned-sprint
