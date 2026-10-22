@@ -8,7 +8,7 @@ Establish project foundation and authentication features.
 
 - US-01 Create Account
 - US-02 Login
-- US-03 Profile Management
+
 
 ## Tasks and Subtasks
 
