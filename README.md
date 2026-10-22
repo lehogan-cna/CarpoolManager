@@ -1,6 +1,6 @@
 
 # Team
-Lori Hogan, Other Personality, CP3490 Students
+Lori Hogan, Hanson!, CP3490 Students
 
 # Problem Statement (what problem are we solving)
 We propose to create a management software tool for organizing car pools to youth
